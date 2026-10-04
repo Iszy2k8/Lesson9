@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: yellow;
+    text-shadow: 2px 4px orange;
+}
+
+body {
+    font-size: x-large;
+    color: aqua;
+    font-style: italic;
+}
+
+h2 {
+    font-size: xx-large;
+    color: orange;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: x-large;
+    color: turquoise;
+}
+
+p {
+    font-size: large;
+    color: gray;
+}
+
+.last {
+    font-size: xx-large;
+    transform: rotate(5deg);
+}
+
+html {
+    background-color: blue;
+}
