@@ -28,6 +28,7 @@ p {
 }
 
 .last {
+    color: yellow;
     font-size: xx-large;
     transform: rotate(5deg);
 }

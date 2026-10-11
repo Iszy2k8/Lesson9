@@ -1,0 +1,38 @@
+html {
+    background: linear-gradient(135deg, #ffecd2, #fcb69f, #ffecd2);
+}
+
+.Head {
+        margin: 0;
+        padding-top: 20px;
+        text-align: center;
+        font-size: x-large;
+        color: red;
+        animation: twinkle 2s infinite alternate;
+}
+
+@keyframes twinkle {
+    from {
+        color: black;
+    }
+
+    to {
+        color: red;
+    }
+}
+
+.body {
+    text-align: center;
+}
+
+h2 {
+    background-image: linear-gradient(to right, black, white, black);
+    text-decoration: underline;
+    font-size: x-large;
+    border-radius: 50%;
+}
+
+p {
+    font-size: larger;
+    font-weight: bolder;
+}
